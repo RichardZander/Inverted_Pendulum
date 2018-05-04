@@ -4,6 +4,7 @@ Inverted Pendulum Modeling&Control
 In the future, the English version will be introduced.
 
 包含以下部分内容：<br>
+
   倒立摆CAD文件[由于不可抗力，该部分无法公开，仅以截图方式展示]，由Solidworks导出的XML+STL文件<br>
 
   由XML+STL文件导入Matlab生成的SLX文件<br>

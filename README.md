@@ -16,3 +16,10 @@ In the future, the English version will be introduced.
   起摆-稳摆模块
 
   待编辑
+  
+  OS：Win 64<br>
+  Software：Matlab R2014b + Solidworks 2014<br>
+  需要插件：Solidworks Multibody Plug-in<br>
+          https://ww2.mathworks.cn/help/physmod/smlink/solidworks.html?s_tid=srchtitle<br>
+  real-time kernel<br>
+          https://ww2.mathworks.cn/help/xpc/gs/set-up-and-configure-xpc-target.html

@@ -27,7 +27,7 @@ In the future, the English version will be introduced.
   
   运行Main.m <br>
   
-  文件已经过Win7 64位+Matlab R2014b 64位环境测试<br>
+  文件已经过Win7 64位+Matlab R2014b 64 bits环境测试<br>
   
   <br>
   

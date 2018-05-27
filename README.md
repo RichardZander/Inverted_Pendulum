@@ -20,7 +20,7 @@ In the future, the English version will be introduced.
   <br>
   ================================================================
   
-  解压Inverted_Pendlulum.rar到Matlab文件目录下，如C:\Users\[用户名]\Documents\MATLAB [若非Matlab默认目录，加密文件的路径需自行添加。此处不作叙述]<br>
+  解压Inverted_Pendlulum.rar到Matlab文件目录下，如C:\Users\ [用户名]\Documents\MATLAB [若非Matlab默认目录，加密文件的路径需自行添加。此处不作叙述]<br>
   
   打开Matlab<br>
   
